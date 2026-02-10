@@ -10,3 +10,6 @@
 [submodule "ETC_Mother"]
 	path = ETC_Mother
 	url = https://github.com/critterandguitari/ETC_Mother
+[submodule "ETC_Modes"]
+	path = ETC_Modes
+	url = https://github.com/critterandguitari/ETC_Modes
