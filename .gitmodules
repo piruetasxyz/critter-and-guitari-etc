@@ -4,3 +4,6 @@
 [submodule "ETC_Controller"]
 	path = ETC_Controller
 	url = https://github.com/critterandguitari/ETC_Controller
+[submodule "ETC_Sys"]
+	path = ETC_Sys
+	url = https://github.com/critterandguitari/ETC_Sys
