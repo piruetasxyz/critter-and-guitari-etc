@@ -7,3 +7,6 @@
 [submodule "ETC_Sys"]
 	path = ETC_Sys
 	url = https://github.com/critterandguitari/ETC_Sys
+[submodule "ETC_Mother"]
+	path = ETC_Mother
+	url = https://github.com/critterandguitari/ETC_Mother
