@@ -19,3 +19,6 @@
 [submodule "ETC_Web"]
 	path = ETC_Web
 	url = https://github.com/critterandguitari/ETC_Web
+[submodule "ETC_Modes_Extra"]
+	path = ETC_Modes_Extra
+	url = https://github.com/critterandguitari/ETC_Modes_Extra
