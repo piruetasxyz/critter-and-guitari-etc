@@ -1,0 +1,3 @@
+[submodule "ETC_Daemon"]
+	path = ETC_Daemon
+	url = https://github.com/critterandguitari/ETC_Daemon
